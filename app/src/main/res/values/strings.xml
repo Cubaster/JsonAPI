@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JsonAPI</string>
+    <string name="userList">User list</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="email">Email</string>
+    <string name="tasks">Tasks</string>
+    <string name="posts">Posts</string>
+    <string name="title">Title</string>
+    <string name="completed">Completed</string>
+    <string name="comments">Comments:</string>
+    <string name="post">Post:</string>
+</resources>
